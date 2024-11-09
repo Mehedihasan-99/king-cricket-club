@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.postimg.cc/QN1pvgMX/rohan-patel.png",
+      "author": "Rohan Patel",
+      "author_img": "https://i.postimg.cc/hvxM59QY/rohan-patel.png",
+      "country": "India",
+      "player_type": "Batsman",
+      "rating": 4.8,
+      "hand_type": "Right-Hand-Bat",
+      "price": "200000"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.postimg.cc/5t4zc8Tr/james-waker.jpg",
+      "author": "James Walker",
+      "author_img": "https://i.postimg.cc/GmQKVFqB/187599.jpg",
+      "country": "England",
+      "player_type": "All-rounder",
+      "rating": 4.5,
+      "hand_type": "Left-Hand-Bat",
+      "price": "250000"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.postimg.cc/htfhRg09/akira.jpg",
+      "author": "Akira Tanaka",
+      "author_img": "https://i.postimg.cc/90mF8jMw/akira.jpg",
+      "country": "Japan",
+      "player_type": "Wicketkeeper",
+      "rating": 4.2,
+      "hand_type": "Right-Hand-Bat",
+      "price": "150000"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.postimg.cc/BQFB5vNt/musa.webp",
+      "author": "Musa Khan",
+      "author_img": "https://i.postimg.cc/nVyvLJZx/musa.jpg",
+      "country": "Pakistan",
+      "player_type": "Fast Bowler",
+      "rating": 4.7,
+      "hand_type": "Right-Hand-Bat",
+      "price": "300000"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.postimg.cc/jjSf1q6H/ee.webp",
+      "author": "Carlos Silva",
+      "author_img": "https://i.postimg.cc/vmK4SrZy/eee.jpg",
+      "country": "Brazil",
+      "player_type": "All-rounder",
+      "rating": 4.6,
+      "hand_type": "Right-Hand-Bat",
+      "price": "220000"
+    },
+    {
+      "id": 6,
+      "cover": "https://i.postimg.cc/SKLyccYV/mor.avif",
+      "author": "David Morgan",
+      "author_img": "https://i.postimg.cc/GhBdqWs4/momm.jpg",
+      "country": "Australia",
+      "player_type": "Batsman",
+      "rating": 4.9,
+      "hand_type": "Right-Hand-Bat",
+      "price": "350000"
+    },
+    {
+      "id": 7,
+      "cover": "https://i.postimg.cc/cL6rSSBR/images.jpg",
+      "author": "Liam Hughes",
+      "author_img": "https://i.postimg.cc/9f6p91Qk/images-5.jpg",
+      "country": "South Africa",
+      "player_type": "Fast Bowler",
+      "rating": 4.3,
+      "hand_type": "Left-Hand-Bat",
+      "price": "275000"
+    },
+    {
+      "id": 8,
+      "cover": "https://i.postimg.cc/8csqCtK0/images-4.jpg",
+      "author": "Rajiv Mehta",
+      "author_img": "https://i.postimg.cc/brH3pb8B/images-6.jpg",
+      "country": "Nepal",
+      "player_type": "Batsman",
+      "rating": 4.1,
+      "hand_type": "Right-Hand-Bat",
+      "price": "180000"
+    },
+    {
+      "id": 9,
+      "cover": "https://i.postimg.cc/k4gHjTmg/images-3.jpg",
+      "author": "Chris Duncan",
+      "author_img": "https://i.postimg.cc/HxPFZHmW/HD-wallpaper-rohit-sharma-ka-captain-rohit-captain-rohit-sharma-cricketer.jpg",
+      "country": "New Zealand",
+      "player_type": "All-rounder",
+      "rating": 4.4,
+      "hand_type": "Right-Hand-Bat",
+      "price": "240000"
+    },
+    {
+      "id": 10,
+      "cover": "https://i.postimg.cc/xdtxbLzD/download-2.jpg",
+      "author": "Imran Siddique",
+      "author_img": "https://i.postimg.cc/jj59c8Kd/musa.webp",
+      "country": "Bangladesh",
+      "player_type": "Spinner",
+      "rating": 4.7,
+      "hand_type": "Right-Hand-Bat",
+      "price": "280000"
+    },
+    {
+      "id": 11,
+      "cover": "https://i.postimg.cc/23R2fwPv/download-3.jpg",
+      "author": "Junaid Malik",
+      "author_img": "https://i.postimg.cc/pV3LyMjt/images.jpg",
+      "country": "Afghanistan",
+      "player_type": "All-rounder",
+      "rating": 4.5,
+      "hand_type": "Left-Hand-Bat",
+      "price": "210000"
+    },
+    {
+      "id": 12,
+      "cover": "https://i.postimg.cc/vZMwrLcc/download-4.jpg",
+      "author": "Ryan O'Connor",
+      "author_img": "https://i.postimg.cc/RhkymRqj/59-599357-m.jpg",
+      "country": "Ireland",
+      "player_type": "Batsman",
+      "rating": 4.8,
+      "hand_type": "Right-Hand-Bat",
+      "price": "320000"
+    }
+  ]

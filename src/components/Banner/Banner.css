@@ -1,0 +1,24 @@
+font-inter{
+    font-family: "Inter", sans-serif;
+}
+
+.banner{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.banner button{
+    border: 3px solid yellow;
+    border-radius: 12px;
+    padding: 13px 3px;
+}
+
+.credit-btn{
+    background-color: yellow;
+    padding: 10px 28px;
+    border-radius: 8px;
+    
+}
